@@ -9,7 +9,7 @@ This is a small project implementing the advanced Seam Carving algorithm. If you
 
 ## Example
 
-This is a cute picture a couple of bunnies :).
+This is a cute picture of a couple of bunnies :).
 
 ![Screenshot](example.jpg)
 
