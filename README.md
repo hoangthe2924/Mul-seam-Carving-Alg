@@ -1,5 +1,5 @@
 # Mul-seam-Carving-Alg
-This is a small project implementing the advanced Seam Carving algorithm. If you haven't known what Seam Carving algorithm is, uhmm, google it :D. So instead of carving one seam at a time, this project allows you to carve multiple seams. This is an optional project in a course "Introduction to Algorithm Analysis" at my university. The script was written in Python and is not optimized :), so I hope someone read it may help contribute to it if you like. The improved version of the algorithm is implemented based on a paper referenced below.
+This is a small project implementing the advanced Seam Carving algorithm. If you haven't known what Seam Carving algorithm is, uhmm, google it :D. So instead of carving one seam at a time, this project allows you to carve multiple seams. This is an optional project in a course "Introduction to Algorithm Analysis" at my university. The script was written in Python and is not optimized :), so I hope someone read it may help contribute to it if you like. The improved version of the algorithm is implemented from the idea in a paper below.
 
 ## Requirement
 
